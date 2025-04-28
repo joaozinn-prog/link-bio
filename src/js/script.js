@@ -2,5 +2,5 @@
 const click = document.getElementById('click')
 
 click.addEventListener('click', () => {
-  alert('Em breve estara no ar!')
+  alert('Em breve colocaremos mais informações sobre essa página!')
 })
